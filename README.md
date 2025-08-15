@@ -19,17 +19,7 @@ Aqui estão alguns dos projetos que desenvolvi ou estou trabalhando durante meu 
 ### 1. **[Nome do Projeto 1]**
 - **Descrição**: Descrição breve do projeto.
 - **Tecnologias utilizadas**: Python, HTML, CSS, JavaScript.
-- **Objetivo**: O objetivo desse projeto é... (falar sobre o que você tentou aprender, resolver ou construir com esse projeto).
-
-### 2. **[Nome do Projeto 2]**
-- **Descrição**: Descrição breve do projeto.
-- **Tecnologias utilizadas**: Python, Flask, HTML, CSS.
-- **Objetivo**: Descrição do que você aprendeu ou conquistou com esse projeto.
-
-### 3. **[Nome do Projeto 3]**
-- **Descrição**: Descrição breve do projeto.
-- **Tecnologias utilizadas**: JavaScript, Node.js, React.
-- **Objetivo**: O que você buscou resolver ou aprender com este projeto.
+- **Objetivo**: O objetivo desse projeto é... (falar sobre o que você tentou aprender, resolver ou construir com esse projeto)
 
 ## 🧑‍💻 Experiência de Estudo
 
@@ -43,7 +33,7 @@ Durante o curso, também estou participando de diversos desafios de programaçã
 ## 📬 Contato
 
 Sinta-se à vontade para entrar em contato para tirar dúvidas sobre meus projetos ou trocar ideias sobre tecnologia!  
- **<p>
+ <p>
   <a href="https://www.linkedin.com/in/felipejacinto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
