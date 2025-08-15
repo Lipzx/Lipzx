@@ -27,8 +27,6 @@ Durante o curso, também estou participando de diversos desafios de programaçã
 
 **Metas para o futuro:**
 - Aprofundar-me em frameworks como **Django** (para back-end com Python) e **React** (para front-end).
-- Melhorar minhas habilidades em **SQL** e **banco de dados**.
-- Explorar **DevOps** e **deploy de aplicações** para produção.
 
 ## 📬 Contato
 
