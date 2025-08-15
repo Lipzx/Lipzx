@@ -43,7 +43,7 @@ Durante o curso, também estou participando de diversos desafios de programaçã
 ## 📬 Contato
 
 Sinta-se à vontade para entrar em contato para tirar dúvidas sobre meus projetos ou trocar ideias sobre tecnologia!  
-- **Email**: [![Email me](https://img.shields.io/badge/Email%20Me-%40seu_email-blue)](mailto:felipejacinto892@gmail.com)
+- **Email**: [![GMAIL](https://img.shields.io/badge/Email%20Me-%40seu_email-blue)](mailto:felipejacinto892@gmail.com)
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visitar_perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipejacinto/)
 ---
 
