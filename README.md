@@ -43,8 +43,8 @@ Durante o curso, também estou participando de diversos desafios de programaçã
 ## 📬 Contato
 
 Sinta-se à vontade para entrar em contato para tirar dúvidas sobre meus projetos ou trocar ideias sobre tecnologia!  
-- **<p>
-  <a href="https://www.linkedin.com/in/Lipzx" target="_blank">
+ **<p>
+  <a href="https://www.linkedin.com/in/felipejacinto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:felipejacinto892@gmail.com" target="_blank">
