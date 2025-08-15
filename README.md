@@ -43,8 +43,15 @@ Durante o curso, também estou participando de diversos desafios de programaçã
 ## 📬 Contato
 
 Sinta-se à vontade para entrar em contato para tirar dúvidas sobre meus projetos ou trocar ideias sobre tecnologia!  
-- **Email**: [![GMAIL](https://img.shields.io/badge/Email%20Me-%40seu_email-blue)](mailto:felipejacinto892@gmail.com)
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visitar_perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipejacinto/)
+- **<p>
+  <a href="https://www.linkedin.com/in/Lipzx" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:felipejacinto892@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
 ---
 
 🚀 **Vamos codar juntos e evoluir!**
