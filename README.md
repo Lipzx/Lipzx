@@ -43,3 +43,13 @@ Sinta-se à vontade para entrar em contato para tirar dúvidas sobre meus projet
 ---
 
 🚀 **Vamos codar juntos e evoluir!**
+
+📊 Minhas Estatísticas no GitHub
+<!-- Estatísticas gerais -->
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lipzx&show_icons=true&theme=radical) 
+
+<!-- Linguagens mais usadas -->
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lipzx&layout=compact&langs_count=8&theme=radical) 
+
+<!-- Contribuições em streak -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=lipzx&theme=radical)
