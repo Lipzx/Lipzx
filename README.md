@@ -23,10 +23,10 @@ Aqui estão alguns dos projetos que desenvolvi ou estou trabalhando durante meu 
 
 ## 🧑‍💻 Experiência de Estudo
 
-Durante o curso, também estou participando de diversos desafios de programação e hackathons para aprimorar minhas habilidades. Além disso, sou ativo em comunidades online, onde posso aprender com outros desenvolvedores e compartilhar meu progresso.
+Durante o curso, também estou participando de diversos desafios de programação para aprimorar minhas habilidades. Além disso, sou ativo em comunidades online, onde posso aprender com outros desenvolvedores e compartilhar meu progresso.
 
 **Metas para o futuro:**
-- Aprofundar-me em frameworks como **Django** (para back-end com Python) e **React** (para front-end).
+- Aprofundar-me em frameworks **React** (para front-end).
 
 ## 📬 Contato
 
