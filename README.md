@@ -16,10 +16,6 @@ Atualmente, estou desenvolvendo habilidades em **programação**, **design de in
 
 Aqui estão alguns dos projetos que desenvolvi ou estou trabalhando durante meu curso:
 
-### 1. **[Nome do Projeto 1]**
-- **Descrição**: Descrição breve do projeto.
-- **Tecnologias utilizadas**: Python, HTML, CSS, JavaScript.
-- **Objetivo**: O objetivo desse projeto é... (falar sobre o que você tentou aprender, resolver ou construir com esse projeto)
 
 ## 🧑‍💻 Experiência de Estudo
 
